@@ -22,3 +22,7 @@ Este exemplo visa demonstrar como manipular recursos de webservice e consumo de 
 ### Origem do desenvolvimento
 
 Exemplo desenvolvido pelo time fluig Academy. 
+
+### Fique ligado!
+
+Os projetos compartilhados no repositório do GitHub não possuem suporte pois é um ambiente de compartilhamento comunitário, sendo o modelo AS IS. 
